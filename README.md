@@ -12,6 +12,9 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 ![Express.js](https://img.shields.io/badge/Express.js-007700?style=for-the-badge&logo=express&logoColor=white)
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+
 ### 📋 Estatísticas
 [![Arlesson-Sales GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Arlesson-Sales&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
@@ -21,3 +24,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlesson-sales/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arlesson_urameshy)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Artely_)
+
+![Laptop](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
