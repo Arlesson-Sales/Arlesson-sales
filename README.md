@@ -15,11 +15,13 @@ I am 24 years old and currently pursuing a Bachelor's degree in Computer Science
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
+<!--
 ### 📋 Statistics
 <div>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Arlesson-sales&show_icons=true&theme=monokai&border_radius=10" />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arlesson-sales&layout=compact&border_radius=10&theme=monokai" />
 </div>
+-->
 
 ## 📫 How to find me
 
